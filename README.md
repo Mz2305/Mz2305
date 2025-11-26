@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I’m Matteo Zappa
+I’m a Computer Science Engineering student at [Politecnico di Milano](https://www.polimi.it/) with a passion for Data Science and Machine Learning.  
 
-<!--
-**Mz2305/Mz2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔧 What I Do
+- 💻 I develop mainly with Python, Java and C
+- 🚀 I specialize in Big Data and Data Science
+- 🧠 I’m currently working on:
+  - Finance Project: [Market Regime Detector](https://github.com/blackswan-quants/marketregime_hmm)
+  - [Data science project](https://github.com/leonardotisato/Data-and-Information-Quality-Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 How to Reach Me
+- 📧 Email: matteo.zappa23@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/matteo-zappa-34bb03330/)
