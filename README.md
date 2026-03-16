@@ -8,7 +8,7 @@ I’m a Computer Science Engineering student at [Politecnico di Milano](https://
 - 🚀 I specialize in Big Data and Data Science
 - 🚧 I’m currently working on:
   - Finance Project: [Market Regime Detector](https://github.com/blackswan-quants/marketregime_hmm)
-  - [Data science project](https://github.com/leonardotisato/Data-and-Information-Quality-Project)
+  - Illegal Fishing Detector
 
 ---
 
